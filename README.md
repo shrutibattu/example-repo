@@ -12,3 +12,11 @@ NEVER CLONE A REPO INTO REPO
 - git push origin main 
  
 - git status check status
+
+
+how to add a branch
+added notes
+updating some new features to the file
+
+
+
